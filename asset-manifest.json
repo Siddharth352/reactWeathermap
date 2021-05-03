@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/reactWeathermap/static/js/main.ff6b79a8.chunk.js",
+    "main.js.map": "/reactWeathermap/static/js/main.ff6b79a8.chunk.js.map",
+    "runtime-main.js": "/reactWeathermap/static/js/runtime-main.bc47a736.js",
+    "runtime-main.js.map": "/reactWeathermap/static/js/runtime-main.bc47a736.js.map",
+    "static/js/2.8e63e1dc.chunk.js": "/reactWeathermap/static/js/2.8e63e1dc.chunk.js",
+    "static/js/2.8e63e1dc.chunk.js.map": "/reactWeathermap/static/js/2.8e63e1dc.chunk.js.map",
+    "index.html": "/reactWeathermap/index.html",
+    "precache-manifest.0da701c79023d599268ff766b391bd38.js": "/reactWeathermap/precache-manifest.0da701c79023d599268ff766b391bd38.js",
+    "service-worker.js": "/reactWeathermap/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc47a736.js",
+    "static/js/2.8e63e1dc.chunk.js",
+    "static/js/main.ff6b79a8.chunk.js"
+  ]
+}
